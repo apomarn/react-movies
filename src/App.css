@@ -1,5 +1,11 @@
+*{
+  padding:5px;
+  transition: all .2s;
+}
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
